@@ -7,7 +7,7 @@ sudo apt-get upgrade
 sudo apt-get install -y net-tools wget curl
 
 #Servers
-sudo apt-get install -y samba mailutils proftpd ssmtp xrdp
+sudo apt-get install -y samba mailutils proftpd ssmtp xrdp ssh
 
 #Editor
 sudo apt-get install -y vim gedit

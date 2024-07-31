@@ -7,12 +7,15 @@ sudo apt-get upgrade
 sudo apt-get install -y net-tools wget curl
 
 #Servers
-sudo apt-get install -y samba mailutils proftpd ssmtp xrdp ssh
+sudo apt-get install -y samba mailutils proftpd ssmtp xrdp ssh apache2 php mysql
 
 #Editor
 sudo apt-get install -y vim gedit
 
+#Graphic
+sudo apt-get install -y kolourpaint
+
 #Develop
-sudo apt-get install -y git hub gcc bmake python3 
+sudo apt-get install -y git hub gcc bmake python3 python3-pip
 
 

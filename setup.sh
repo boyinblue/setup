@@ -16,6 +16,7 @@ sudo apt-get install -y vim gedit
 sudo apt-get install -y kolourpaint
 
 #Develop
-sudo apt-get install -y git hub gcc bmake python3 python3-pip
-
+sudo apt-get install -y git hub
+sudo apt-get install -y gcc bmake
+sudo apt-get install -y python3 python3-pip python-is-python3
 

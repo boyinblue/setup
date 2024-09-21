@@ -21,7 +21,10 @@ sudo apt-get install -y kolourpaint
 #Develop
 sudo apt-get install -y git hub
 sudo apt-get install -y gcc bmake
-sudo apt-get install -y python3 python3-pip python-is-python3
+sudo apt-get install -y python3 python3-full python3-pip python-is-python3
 
-sudo apt-get autoremove
-sudo apt-get autoclean
+#Communication
+sudo apt-get install minicom
+
+sudo apt-get -y autoremove
+sudo apt-get -y autoclean
